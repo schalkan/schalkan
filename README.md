@@ -4,7 +4,7 @@
 
 To leverage my expertise in AI, Machine Learning, and cybersecurity-focused automation to build impactful solutions. I specialize in designing semantic search systems, anomaly detection pipelines, AI agents, and cutting-edge integrations like MCP (Model Context Protocol). I believe true innovation comes from experimentation, resilience in the face of challenges, and a drive to build scalable solutions that make a difference.
 
-[🌐 Portfolio](#) | [🔗 LinkedIn](https://www.linkedin.com/in/schalkan) | [💻 GitHub](https://github.com/schalkan)
+[🔗 LinkedIn](https://www.linkedin.com/in/schalkan) | [💻 GitHub](https://github.com/schalkan)
 
 ---
 
