@@ -1,6 +1,6 @@
 # Salut!, it's Devansh  
 
-**AI/ML & Python Developer | Agent AI & MCP Researcher | SIEM & CYBERSECURITY DEVELOPER | Generative AI Enthusiast**
+**QA ASSOCIATE | AI/ML & Python Developer | Agent AI & MCP Researcher | SIEM & CYBERSECURITY DEVELOPER | Generative AI Enthusiast**
 
 To leverage my expertise in AI, Machine Learning, and cybersecurity-focused automation to build impactful solutions. I specialize in designing semantic search systems, anomaly detection pipelines, AI agents, and cutting-edge integrations like MCP (Model Context Protocol). I believe true innovation comes from experimentation, resilience in the face of challenges, and a drive to build scalable solutions that make a difference.
 
